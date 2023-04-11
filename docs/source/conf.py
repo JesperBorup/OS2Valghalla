@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'OS2Valghalla'
+copyright = '2023, Precio Fishbone'
+author = 'Precio Fishbone'
 
 release = '0.1'
 version = '0.1.0'
