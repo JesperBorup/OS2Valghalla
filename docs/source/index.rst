@@ -1,4 +1,4 @@
-Welcome to OS2Valghalla
+Welcome to OS2Valghalla!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
