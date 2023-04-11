@@ -2,7 +2,7 @@ Welcome to OS2Valghalla
 ===================================
 
 This is the official documentation of **OS2Valghalla** (/lu'make/).
-It pulls data from the `OS2Valghalla(Dev) <https://world.openfoodfacts.org/>`_
+It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
