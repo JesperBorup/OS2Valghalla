@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Welcome to OS2Valghalla!
+=======
+Welcome to Lumache's documentation!
+>>>>>>> parent of 86c264a... First push
 =======
 Welcome to Lumache's documentation!
 >>>>>>> parent of 86c264a... First push
