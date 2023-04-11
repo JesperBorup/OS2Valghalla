@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Welcome to OS2Valghalla!
+=======
+Welcome to Lumache's documentation!
+>>>>>>> parent of 86c264a... First push
 ===================================
 
 This library is the official documentation of **OS2Valghalla**-
