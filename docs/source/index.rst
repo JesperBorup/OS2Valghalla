@@ -1,21 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Welcome to OS2Valghalla!
-=======
-Welcome to Lumache's documentation!
->>>>>>> parent of 86c264a... First push
-=======
-Welcome to Lumache's documentation!
->>>>>>> parent of 86c264a... First push
-=======
-Welcome to Lumache's documentation!
->>>>>>> parent of 86c264a... First push
+Welcome to OS2Valghalla
 ===================================
 
-This library is the official documentation of **OS2Valghalla**-
-It pulls data from from the `OS2Valghalla(Dev) <https://github.com/JesperBorup/OS2Valghalla//>`_
-
+**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+that creates recipes mixing random ingredients.
+It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
