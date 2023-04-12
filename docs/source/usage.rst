@@ -1,9 +1,9 @@
 Usage
 =====
 
-.. _installation:
+.. _installatpackages:
 
-Installation
+Install required packages
 ------------
 
 Code block example for installing packages:
@@ -20,5 +20,5 @@ Serve
 Code block example for serving external application:
 
 .. code-block:: python
-   
+
    ng serve -o
