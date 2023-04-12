@@ -1,7 +1,7 @@
 Usage
 =====
 
-.. _installatpackages:
+.. _installpackages:
 
 Install required packages
 ------------
