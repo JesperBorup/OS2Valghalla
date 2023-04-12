@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Documentation of OS2Valghalla
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is the official (test) documentation of OS2Valghalla.
 
-Read the tutorial here:
+Read the Docs documentation can be found here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://os2valghalladev.readthedocs.io/en/latest/index.html
