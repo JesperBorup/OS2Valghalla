@@ -20,4 +20,5 @@ Serve
 Code block example for serving external application:
 
 .. code-block:: python
+   
    ng serve -o
