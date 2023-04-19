@@ -20,7 +20,7 @@
             {%- if hasdoc('copyright') %}
             {%- trans path=pathto('copyright'), copyright=copyright, copyright_url=copyright_url|e %}<a href="{{ copyright_url }}">This project is licensed under {{ copyright }}</a>.{% endtrans %}
             {%- else %}
-            {%- trans copyright=copyright, copyright_url=copyright_url|e %}This project is licensed under <a href="{{ copyright_url }}">{{ copyright }}</a>.{% endtrans %}
+            {%- trans copyright=copyright, copyright_url=copyright_url|e %}This project is licensed under <a href="{{ https://creativecommons.org/licenses/by-sa/4.0/ }}">{{ copyright }}</a>.{% endtrans %}
             {%- endif %}
             {%- endif %}
 
