@@ -18,9 +18,9 @@
         <p>
             {%- if show_copyright %}
             {%- if hasdoc('copyright') %}
-            {%- trans path=pathto('copyright'), copyright=copyright|e %}<a href="{{ path }}">This project is licensed under</a> {{ copyright }}.{% endtrans %}
+            {%- trans path=pathto('copyright'), copyright=copyright|e %}<a href="{{ path }}">This project is licensed under {{ copyright }}</a>.{% endtrans %}
             {%- else %}
-            {%- trans copyright=copyright|e %}This project is licensed under {{ copyright }}.{% endtrans %}
+            {%- trans copyright=copyright|e %}This project is licensed under <a href="{{ copyright_url }}">{{ copyright }}</a>.{% endtrans %}
             {%- endif %}
             {%- endif %}
 
