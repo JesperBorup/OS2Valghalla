@@ -1,6 +1,7 @@
-{% extends '!footer.html' %}
-{% block contentinfo %}
+{% extends "!footer.html" %}
+{%- block contentinfo %}
+{{ super }}
 <footer>
     <p>test</p>
 </footer>
-{% contentinfo %}
+{% endblock %}
