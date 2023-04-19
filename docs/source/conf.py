@@ -5,7 +5,8 @@
 project = 'OS2Valghalla'
 copyright = 'Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)'
 # URL for custom footer copyright and license
-copyright_url = 'https://creativecommons.org/licenses/by-sa/4.0/'
+html_context = {'copyright_url': 'https://creativecommons.org/licenses/by-sa/4.0/'}
+#copyright_url = 'https://creativecommons.org/licenses/by-sa/4.0/'
 author = 'OS2Valghalla'
 
 release = '0.1'
