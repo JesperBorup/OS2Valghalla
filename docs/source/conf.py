@@ -13,6 +13,8 @@ author = 'OS2Valghalla'
 release = '0.1'
 version = '0.1.0'
 
+html_show_sphinx = false
+
 # -- General configuration
 
 extensions = [
