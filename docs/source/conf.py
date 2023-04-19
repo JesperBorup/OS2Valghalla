@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'OS2Valghalla'
-copyright = '2023, Precio Fishbone'
+copyright = 'Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)'
 author = 'OS2Valghalla'
 
 release = '0.1'
