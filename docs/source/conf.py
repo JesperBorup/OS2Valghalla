@@ -4,7 +4,7 @@
 
 project = 'OS2Valghalla'
 copyright = '2023, Precio Fishbone'
-author = 'Precio Fishbone'
+author = 'OS2Valghalla'
 
 release = '0.1'
 version = '0.1.0'
