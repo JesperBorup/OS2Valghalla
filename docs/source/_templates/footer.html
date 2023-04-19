@@ -1,6 +1,4 @@
-{% extends "!footer.html" %}
-{%- block contentinfo %}
-{{ super }}
+{% extends '!footer.html' %} {% block extrafooter %}
 <footer>
     {%- if (theme_prev_next_buttons_location == 'bottom' or theme_prev_next_buttons_location == 'both') and (next or prev) %}
     {#- Translators: This is an ARIA section label for the footer section of the page. -#}
@@ -21,7 +19,7 @@
         <p>
             {%- if show_copyright %}
             {%- if hasdoc('copyright') %}
-            {%- trans path=pathto('copyright'), copyright=copyright|e %}&#169; <a href="{{ path }}">CopyrightTEST</a> {{ copyright }}.{% endtrans %}
+            {%- trans path=pathto('copyright'), copyright=copyright|e %}&#169; <a href="{{ path }}">Copyright</a> {{ copyright }}.{% endtrans %}
             {%- else %}
             {%- trans copyright=copyright|e %}&#169; Copyright {{ copyright }}.{% endtrans %}
             {%- endif %}
