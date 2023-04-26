@@ -9,7 +9,7 @@ how to :ref:`installpackages`.
 
 .. note::
 
-   This project is under active development. Temporary test.
+   This project is under active development.
 
 Contents
 --------
