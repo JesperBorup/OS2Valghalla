@@ -15,3 +15,4 @@ Contents
    :maxdepth: 2
 
    user-interface-design/index
+   user-interface-guidelines/index
