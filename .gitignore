@@ -4,8 +4,6 @@
 
 .vs
 .vscode
-*.gitignore
-*/.gitignore
 docs/source/_build
 
 ### JupyterNotebooks ###

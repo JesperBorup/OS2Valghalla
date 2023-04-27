@@ -9,4 +9,4 @@ Content about Angular components.
 
 Another dependency
 -------------------------
-Just another header.
+Yet another dependency.
