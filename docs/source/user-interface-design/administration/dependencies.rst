@@ -1,5 +1,5 @@
 Dependencies
-=====================
+============
 
 The dependencies for the User Inferface Design for the administration part of the application.
 
